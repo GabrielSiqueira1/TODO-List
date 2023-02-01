@@ -1,4 +1,5 @@
 const taskModel = require('../models/tasksModels');
+require('dotenv').config();
 
 const getAll = async (request, response) => {
 

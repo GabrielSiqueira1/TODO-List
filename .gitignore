@@ -1,2 +1,6 @@
 backend/node_modules
+<<<<<<< HEAD
 backend/.env
+=======
+backend/.env
+>>>>>>> 43685fa (Ajustes)
